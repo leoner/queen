@@ -1,9 +1,9 @@
 module.exports = {
-    capture:"localhost:9000",
+    capture:"10.15.52.87:9000",
     populator: {
         type: "selenium",
         config: {
-            host: 'localhost', 
+            host: '10.15.52.87', 
             port: 4444
         },
         clients: [
