@@ -1,5 +1,5 @@
 {
-  "host": "localhost",
+  "host": "10.15.52.87",
   "port": 4444,
   "newSessionWaitTimeout": -1,
   "servlets" : [],
@@ -9,7 +9,7 @@
   "nodePolling": 5000,
 
   "cleanUpCycle": 5000,
-  "timeout": 300000,
+  "timeout": 300000000,
   "browserTimeout": 0,
   "maxSession": 5
 }
